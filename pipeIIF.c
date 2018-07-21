@@ -10,7 +10,7 @@
 #define CLOSE_ALL(_fd_) close(_fd_[0]); close(_fd_[1])
 #define MAXLINE 127
 
-#define VERSION "2018-07-20_J"
+#define VERSION "2018-07-20_K"
 
 int g_hijo;
 
